@@ -1,0 +1,2 @@
+# Grassroots-Innovation-Taxonomy-Repository-NIF-Aligned-Local-Innovation-Classification
+A structured taxonomy and open repository to classify undocumented grassroots innovations using National Innovation Foundation aligned criteria. It organizes local solutions into searchable categories, making invisible community inventions visible, verifiable, fundable, and scalable for researchers, policymakers, and impact investors.
